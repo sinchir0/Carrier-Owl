@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        nlp: 1
+        human computation: 1
+        imbalance: 1
+        bill: 1
 # 通知の閾値
 score_threshold: 0
