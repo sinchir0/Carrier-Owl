@@ -5,7 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         nlp: 1
         human computation: 1
-        mbalance: 1
+        imbalance: 1
         invoice: 1
 # 通知の閾値
 score_threshold: 0
